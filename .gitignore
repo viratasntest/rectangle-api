@@ -1,0 +1,42 @@
+
+# Node modules directory
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Directory for transpiled code
+dist/
+build/
+
+# Dependency directories
+bower_components/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Mac OS-specific files
+.DS_Store
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Parcel-bundler cache (specific to parcel)
+.cache/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore uploaded files (if applicable)
+uploads/
